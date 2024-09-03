@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'asap',sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: white;
+}
+.main-part{
+    display: flex;
+    position: relative;
+    margin-bottom: 0;
+   
+}
+.logo{
+    height: 120px;
+    width: 240px;
+    cursor: pointer;
+    margin-left: 173px;
+   
+}
+.home{
+    height: 48px;
+    width: 5%;
+    cursor: pointer;
+    margin-left: 119px;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 20px;
+    margin-top: 30px;
+
+}
+.pro{
+    height: 48px;
+    width: 5%;
+    cursor: pointer;
+    margin-left: 60px;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 20px;
+    margin-top: 30px;
+
+}
+.con{
+    height: 48px;
+    width: 4%;
+    cursor: pointer;
+    margin-left: 110px;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 20px;
+    margin-top: 30px;
+}
+.my{
+    height: 48px;
+    width: 5%;
+    cursor: pointer;
+    margin-left: 130px;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 20px;
+    margin-top: 30px;
+}
+.background{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./images/Header_1_adjusted.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    padding: 10px 8%;
+}
+.pic{
+    margin-left: 250px;
+    height: 280px;
+    width: 390px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.coffee{
+margin-left: 760px;
+margin-top: -350px;
+margin-bottom: 200px;
+}
+.coffee h1{
+font-size: 50px;
+font-weight: 600;
+height: 45px;
+width: 555px;
+}
+.coffee p{
+    font-family: helvetica,sans-serif;
+    font-size: 22px;
+    line-height: 30px;
+    height: 190px;
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-bottom: 50px;
+}.background1{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./images/Pack1Table_adjusted.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    padding: 10px 8%;
+}
+.new{
+    margin-left: 555px;
+    margin-top: 200px;
+}
+.new h1{
+    color:red;
+    line-height: 136px;
+    font-size: 130px;
+    font-weight: 800;
+    height: 135px;
+    width: 25%;
+    margin: 20px;
+    
+}
+.new p{
+font-size: 25px;
+font-weight: 700;
+line-height: 32px;
+color: #000;
+height: 165px;
+width: 740px;
+}
+.background2{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./images/coffee\ bean\ background.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    padding: 10px 8%;
+}
+.foter{
+margin-top: 25%;
+margin-left: 15%;
+
+}
+.foter h1{
+    font-size: 57px;
+    font-weight: 600;
+    line-height: 60px;
+    height: 120px;
+    width:730px ;
+    margin: 20px;
+    text-align: center;
+    
+}
+.foter p{
+    font-size: 25px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    line-height: 31px;
+    height: 85px;
+    width: 730px;
+    text-align: center;
+
+}
